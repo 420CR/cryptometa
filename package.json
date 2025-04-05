@@ -11,7 +11,7 @@
     "clean": "git checkout data/{**/,}**/logo-white.png"
   },
   "dependencies": {
-    "canvas": "^2.11.2",
+    "canvas": "^3.1.0",
     "isomorphic-fetch": "^3.0.0"
   },
   "devDependencies": {
